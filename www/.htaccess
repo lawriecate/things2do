@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule     /*\.(css|js|gif|png|jpe?g)$ - [NC,L]
+RewriteRule "^(.*)$"    "index.php?_url=$1" [QSA,L]
+
+ErrorDocument 404 /templates/404.html
+ErrorDocument 500 /templates/500.html
