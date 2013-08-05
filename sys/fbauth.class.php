@@ -36,7 +36,7 @@ class FBAuth {
 
 	public function login() {
 		$url = $this->facebook->getLoginUrl( array(
-                'scope'         => 'email,user_birthday,user_location,user_work_history,user_about_me,user_hometown',
+                'scope'         => 'email,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_likes',
                 'redirect_uri'  => ROOT_URL
             )
 );
@@ -100,6 +100,42 @@ class FBAuth {
 		    return false;
 		  }
 		}
+	}
+
+	public function graphQuery($query)
+	{
+		if ($this->user) {
+		  try {
+		    // Proceed knowing you have a logged in user who's authenticated.
+		    $obj = $this->facebook->api('/me/' . $query);
+		    return $obj;
+		    return true;
+		  } catch (FacebookApiException $e) {
+		    error_log($e);
+		    $this->user = null;
+		    return false;
+		  }
+		}
+	}
+
+	public function fqlQuery($fql) {
+		try{
+            $param  =   array(
+                'method'    => 'fql.query',
+                'query'     => $fql,
+                'callback'  => ''
+            );
+            $fqlResult   =   $this->facebook->api($param);
+            return $fqlResult;
+        }
+        catch(Exception $o){
+            d($o);
+        }
+	}
+
+	public function getUserMedia() {
+		$query = $this->fqlQuery('SELECT music, movies, name FROM user WHERE uid = me()');
+		return $query;
 	}
 }
 

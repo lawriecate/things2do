@@ -259,3 +259,149 @@
 [05-Aug-2013 13:00:32 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
 [05-Aug-2013 13:00:32 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
 [05-Aug-2013 13:00:32 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:05:02 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:02 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:03 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:05:45 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:45 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:45 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:05:48 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:48 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:05:59 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:59 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:05:59 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:20 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:20 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:20 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:26 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:26 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:26 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:26 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:26 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:26 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:28 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:28 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:28 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:28 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:28 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:30 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:31 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:42 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:42 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:42 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:43 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:43 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:43 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:43 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:43 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:06:44 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:44 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:06:45 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:45 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:06:45 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:16:41 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:16:41 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:16:41 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:16:50 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:16:50 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:16:53 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:16:53 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:16:54 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:35:46 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:46 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:47 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:35:49 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:49 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:50 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:35:52 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:52 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:59 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:35:59 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:36:00 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:36:01 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:36:01 UTC] PHP Notice:  Undefined property: FBAuth::$isLoggedIn in /Users/lawrie/Web Dev/things2do/actions/auth/actions.php on line 9
+[05-Aug-2013 13:36:04 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:36:04 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:36:05 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:38:50 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:38:50 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:38:50 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:38:51 UTC] PHP Fatal error:  Call to undefined method FBAuth::query() in /Users/lawrie/Web Dev/things2do/actions/pages/actions.php on line 52
+[05-Aug-2013 13:38:52 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:38:52 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:38:52 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:38:52 UTC] PHP Fatal error:  Call to undefined method FBAuth::query() in /Users/lawrie/Web Dev/things2do/actions/pages/actions.php on line 52
+[05-Aug-2013 13:39:02 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:39:02 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:39:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/lawrie/Web Dev/things2do/sys/routing.php:17) in /Users/lawrie/Web Dev/things2do/sys/facebook/facebook.php on line 49
+[05-Aug-2013 13:39:02 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:39:03 UTC] PHP Fatal error:  Call to undefined method FBAuth::query() in /Users/lawrie/Web Dev/things2do/actions/pages/actions.php on line 52
+[05-Aug-2013 13:39:14 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:39:14 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:39:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/lawrie/Web Dev/things2do/sys/routing.php:17) in /Users/lawrie/Web Dev/things2do/sys/facebook/facebook.php on line 49
+[05-Aug-2013 13:39:14 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:39:15 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:40:49 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:40:49 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:40:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/lawrie/Web Dev/things2do/sys/routing.php:17) in /Users/lawrie/Web Dev/things2do/sys/facebook/facebook.php on line 49
+[05-Aug-2013 13:40:49 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:40:51 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:43:40 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:43:40 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:43:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/lawrie/Web Dev/things2do/sys/routing.php:17) in /Users/lawrie/Web Dev/things2do/sys/facebook/facebook.php on line 49
+[05-Aug-2013 13:43:40 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:43:42 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:43:48 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:43:48 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:43:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /Users/lawrie/Web Dev/things2do/sys/routing.php:17) in /Users/lawrie/Web Dev/things2do/sys/facebook/facebook.php on line 49
+[05-Aug-2013 13:43:48 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:43:50 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:43:59 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:43:59 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:43:59 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:44:01 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:45:55 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:45:55 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:45:55 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:45:56 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:47:16 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:47:16 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:47:16 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:47:18 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:50:04 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:50:04 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:50:04 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:50:06 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:50:08 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:50:08 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:50:08 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:50:09 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:59:02 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:59:02 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:59:02 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:59:04 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:59:24 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:59:24 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:59:24 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:59:26 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10
+[05-Aug-2013 13:59:57 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:59:57 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 13:59:57 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 13:59:59 UTC] PHP Fatal error:  Call to undefined method FBAuth::getUserMovies() in /Users/lawrie/Web Dev/things2do/actions/pages/actions.php on line 53
+[05-Aug-2013 14:00:10 UTC] PHP Notice:  Undefined offset: 2 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 14:00:10 UTC] PHP Notice:  Undefined offset: 1 in /Users/lawrie/Web Dev/things2do/sys/routing.php on line 17
+[05-Aug-2013 14:00:10 UTC] CSRF state token does not match one provided.
+[05-Aug-2013 14:00:12 UTC] PHP Notice:  Undefined variable: desc in /Users/lawrie/Web Dev/things2do/templates/header.html on line 10

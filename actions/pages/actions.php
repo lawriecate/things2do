@@ -49,6 +49,8 @@ function home()
     $template->set('isLoggedIn',$isLoggedIn);
     $template->set('user',$user);
     $template->set('user_profile',$user_profile);
+    $template->set('likes',$fbauth->graphQuery('likes/?limit=1000'));
+    $template->set('media',$fbauth->getUserMedia());
 
     return $template->render();
 }

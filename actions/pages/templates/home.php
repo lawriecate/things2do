@@ -18,6 +18,10 @@
 
       <h3>Your User Object (/me)</h3>
       <pre><?php print_r($user_profile); ?></pre>
+         <h3>Your Likes (/me/likes)</h3>
+      <pre><?php //print_r($likes); ?></pre>
+               <h3>Your media </h3>
+      <pre><?php print_r($media); ?></pre>
     <?php else: ?>
       <strong><em>You are not Connected.</em></strong>
     <?php endif ?>
